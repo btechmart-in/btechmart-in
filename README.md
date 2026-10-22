@@ -1,16 +1,15 @@
-## Hi there 👋
+# BTechMart — B2B Wholesale Marketplace & Construction Network
 
-<!--
-**btechmart-in/btechmart-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BTechMart is a Lucknow-based B2B wholesale marketplace and construction network. We work with verified suppliers of raw materials and industrial machinery, and deliver turnkey construction with verified contractors.
 
-Here are some ideas to get you started:
+## What we do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Wholesale raw materials
+- Industrial machinery & products
+- Turnkey construction & house plans
+- Verified contractors
+- Plots & property
+
+[BTechMart](https://btechmart.in/)
+[Wholesale Raw Materials](https://btechmart.in/raw-material)
+[Turnkey Construction](https://btechmart.in/construction)
